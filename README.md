@@ -1,11 +1,14 @@
 # hyperspec.github.io
 # Hyperspec AI
 
-Welcome to the Hyperspec AI repository! This document serves as a comprehensive guide to understand our company, its mission, team, and value propositions.
+Welcome to the Hyperspec AI! This document serves as a comprehensive guide to understand our company, its mission, team, and value propositions.
 
 ## Company Overview
 
 Hyperspec AI is a pioneering geospatial data company leveraging the power of rideshare vehicles equipped with state-of-the-art mapping equipment to collect and deliver high-quality, actionable geospatial intelligence. Our fleet, equipped with advanced sensors like Ouster 128-channel lidars, 16 MP cameras, and NovAtel SPAN IMU sensors, provides an unparalleled combination of coverage, resolution, and frequency in our data services.
+
+- [Hyperspec AI Marketplace](https://marketplace.hyperspec.ai): Explore our range of geospatial data products and services.
+
 
 ## Value Propositions
 
@@ -50,28 +53,6 @@ Hyperspec AI has raised $2 million in funding from a diverse group of investors,
 - **Angel Investors Groups**: TBD Angels
 
 Additionally, we are supported by prominent academic and entrepreneurial institutions like the University of Virginia Darden School of Business, UC Berkeley, and Conscious Venture Lab in Baltimore, providing advisory resources and networking opportunities.
-
-## Strategic Goals
-
-### Market Research
-- Conduct surveys and interviews with potential users to understand their challenges and limitations with existing geospatial data solutions.
-- Analyze competitors to identify gaps our product fills.
-
-### Customer Segmentation
-- Identify different customer segments that could benefit from our data, such as urban planners, construction companies, real estate developers, and transportation authorities.
-
-### Use Case Development
-- Develop specific use cases demonstrating how our data solves real-world problems, such as real-time traffic management, precision agriculture, and enhanced virtual reality experiences.
-
-### Technology Integration
-- Offer APIs and integration support for easy access and utilization of our data within customer systems. Partner with software providers in GIS and other relevant fields.
-
-### Feedback Loops
-- Set up mechanisms to gather continuous user feedback to refine our offerings, including beta testing with key potential clients.
-
-### Marketing and Communication
-- Develop a strong value proposition statement that distinguishes our services from competitors.
-- Use digital marketing, industry conferences, and workshops to reach potential customers and demonstrate our technology's capabilities.
 
 By leveraging these strategies, Hyperspec AI aims to better understand customer needs and expectations, positioning our service as a vital tool for industries requiring precise and up-to-date geospatial data.
 
