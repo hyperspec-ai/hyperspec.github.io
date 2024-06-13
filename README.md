@@ -55,5 +55,3 @@ Hyperspec AI has raised $2 million in funding from a diverse group of investors,
 Additionally, we are supported by prominent academic and entrepreneurial institutions like the University of Virginia Darden School of Business, UC Berkeley, and Conscious Venture Lab in Baltimore, providing advisory resources and networking opportunities.
 
 By leveraging these strategies, Hyperspec AI aims to better understand customer needs and expectations, positioning our service as a vital tool for industries requiring precise and up-to-date geospatial data.
-
-For more information or to get in touch with us, please visit our [website](https://hyperspec.ai).
