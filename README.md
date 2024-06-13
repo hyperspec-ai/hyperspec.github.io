@@ -6,7 +6,7 @@ Welcome to the Hyperspec AI! This document serves as a comprehensive guide to un
 
 Hyperspec AI is a pioneering geospatial data company leveraging the power of rideshare vehicles equipped with state-of-the-art mapping equipment to collect and deliver high-quality, actionable geospatial intelligence. Our fleet, equipped with advanced sensors like Ouster 128-channel lidars, 16 MP cameras, and NovAtel SPAN IMU sensors, provides an unparalleled combination of coverage, resolution, and frequency in our data services.
 
-- [Hyperspec AI Marketplace](https://marketplace.hyperspec.ai): Explore our range of geospatial data products and services.
+- [Hyperspec AI Marketplace](https://roadmentor.hyperspec.ai/marketplace): Explore our range of geospatial data products and services.
 
 
 ## Value Propositions
