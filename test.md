@@ -12,14 +12,14 @@ Welcome to the Hyperspec AI repository! This document serves as a comprehensive 
 
 Explore our range of geospatial data products and services on our marketplace.
 
-[![Marketplace](https://img.shields.io/badge/Marketplace-Explore-brightgreen)](https://marketplace.hyperspec.ai)
+[![Marketplace](https://img.shields.io/badge/Marketplace-Explore-brightgreen)](https://hyperspec.ai)
 
 ### Quick Links
 
-[![Home](https://img.shields.io/badge/Home-Visit-blue)](https://marketplace.hyperspec.ai)  
-[![Products](https://img.shields.io/badge/Products-Explore-blue)](https://marketplace.hyperspec.ai/products)  
-[![Who We Serve](https://img.shields.io/badge/Who%20We%20Serve-Learn%20More-blue)](https://marketplace.hyperspec.ai/customers)  
-[![Contact Us](https://img.shields.io/badge/Contact%20Us-Get%20in%20Touch-blue)](https://marketplace.hyperspec.ai/contact)
+[![Home](https://img.shields.io/badge/Home-Visit-blue)](https://hyperspec.ai)  
+[![Products](https://img.shields.io/badge/Products-Explore-blue)](https://hyperspec.ai/products)  
+[![Who We Serve](https://img.shields.io/badge/Who%20We%20Serve-Learn%20More-blue)](https://hyperspec.ai/customers)  
+[![Contact Us](https://img.shields.io/badge/Contact%20Us-Get%20in%20Touch-blue)](https://hyperspec.ai/contact)
 
 </div>
 
