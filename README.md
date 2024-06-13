@@ -1,4 +1,3 @@
-# hyperspec.github.io
 # Hyperspec AI
 
 Welcome to the Hyperspec AI! This document serves as a comprehensive guide to understand our company, its mission, team, and value propositions.
